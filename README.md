@@ -52,3 +52,10 @@ After cleaning and processing the data, I moved to the visualization stage to un
 **View the live dashboard here:** [https://public.tableau.com/authoring/GymMemberExerciseAnalysis2026/GymMemberExerciseAnalysis2026#1]
 
 ![Dashboard Screenshot](https://github.com/sandy-tasks/Gym-Member-Retention-Analysis/blob/main/Gym_%20Member_Exercise_Analysis_2026_(Tableau%20Public).png)
+
+"Lessons Learned":
+"The most challenging part of this project was standardizing the data types in the initial cleaning phase to ensure accurate calculations").
+
+"Future Improvements":
+"In the future, I would like to incorporate a 'Workout Frequency' heatmap to identify peak hours of gym usage").
+
