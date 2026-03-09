@@ -38,3 +38,18 @@ After ensuring the data was clean, I performed an exploratory analysis to identi
   
 ## Next Steps
 * Transitioning data to Tableau for visualization and dashboard creation.
+
+### Phase 5: Data Visualization
+After cleaning and processing the data, I moved to the visualization stage to uncover actionable insights.
+
+* **Tool Used**: Tableau Public
+* **Key Visuals**: Created an interactive bar chart showcasing "Average Calories Burned by Workout Type".
+* **Key Insights**: 
+    * HIIT workouts consistently outperform the 900-calorie benchmark.
+    * Implemented interactive filters for Gender and Age, allowing for deep-dive demographic analysis.
+* **Final Deliverable**: Published an interactive dashboard to Tableau Public for stakeholder review.
+
+**View the live dashboard here:** [https://public.tableau.com/authoring/GymMemberExerciseAnalysis2026/GymMemberExerciseAnalysis2026#1]
+
+![Dashboard Screenshot](<img width="1912" height="778" alt="Gym_ Member_Exercise_Analysis_2026_(Tableau Public)" src="https://github.com/user-attachments/assets/8dbd47fb-3576-4460-b648-e4d0d957bf30" />
+)
