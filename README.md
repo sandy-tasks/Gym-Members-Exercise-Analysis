@@ -51,5 +51,4 @@ After cleaning and processing the data, I moved to the visualization stage to un
 
 **View the live dashboard here:** [https://public.tableau.com/authoring/GymMemberExerciseAnalysis2026/GymMemberExerciseAnalysis2026#1]
 
-![Dashboard Screenshot](<img width="1912" height="778" alt="Gym_ Member_Exercise_Analysis_2026_(Tableau Public)" src="https://github.com/user-attachments/assets/8dbd47fb-3576-4460-b648-e4d0d957bf30" />
-)
+![Dashboard Screenshot]()
